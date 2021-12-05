@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues></ManuallySuppressedIssues>
+  <CurrentIssues>
+    <ID>NewLineAtEndOfFile:FirstFragment.kt$com.sample.staticanalysis.FirstFragment.kt</ID>
+    <ID>NewLineAtEndOfFile:MainActivity.kt$com.sample.staticanalysis.MainActivity.kt</ID>
+    <ID>NewLineAtEndOfFile:SecondFragment.kt$com.sample.staticanalysis.SecondFragment.kt</ID>
+    <ID>UseIfInsteadOfWhen:MainActivity.kt$MainActivity$when (item.itemId) { R.id.action_settings -&gt; true else -&gt; super.onOptionsItemSelected(item) }</ID>
+  </CurrentIssues>
+</SmellBaseline>
