@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="FindViewByIdCast" severity="error" />
+    <issue id="MissingSuperCall" severity="error" />
+    <issue id="UsesMinSdkAttributes" severity="error" />
+    <issue id="AaptCrash" severity="error" />
+    <issue id="GradleCompatible" severity="error" />
+    <issue id="HardcodedText" severity="error" />
+</lint>
